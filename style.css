@@ -1,12 +1,12 @@
 /* --- ROOT VARIABLES (Premium SaaS Palette) --- */
 :root {
-    --bg-dark-deep: #f5f5f5;
+    --bg-dark-deep: #050505;
     --bg-dark-card: #16191f;
     --bg-dark-sec: #194d5a;
     --accent-blue: #0072ff;
     --accent-cyan: #00ccff;
-    --text-primary: #ffffff;
-    --text-muted: #f1f1f1;
+    --text-primary: #fffdfdf;
+    --text-muted: #ffffff;
     --neon-glow: rgba(0, 198, 255, 0.15);
 }
 
